@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi 👋 I'm Shweta Rani  <br><br>🎓 3rd-year B.Tech CSE student  <br>💻 Frontend Developer | MERN Stack Learner  <br>🌱 Currently exploring Full-Stack Development & Generative AI  <br>🚀 Passionate about building real-world projects and learning by doing  <br><br>🔧 Tech Stack:<br>HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Git | GitHub  <br><br>📌 Goals:<br>- Become a skilled Full-Stack Developer  <br>- Build impactful projects  <br>- Grow as a tech creator & problem solver  <br><br>📫 Let’s connect and collaborate!<br>
+# Hi 👋 I'm Shweta Rani 
+ <br><br>🎓 3rd-year B.Tech CSE student  <br>💻 Frontend Developer | MERN Stack Learner  <br>🌱 Currently exploring Full-Stack Development & Generative AI  <br>🚀 Passionate about building real-world projects and learning by doing  <br><br>🔧 Tech Stack:<br>HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Git | GitHub  <br><br>📌 Goals:<br>- Become a skilled Full-Stack Developer  <br>- Build impactful projects  <br>- Grow as a tech creator & problem solver  <br><br>📫 Let’s connect and collaborate!<br>
 
 
 ## 🌐 Socials:
