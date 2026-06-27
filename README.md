@@ -1,18 +1,104 @@
-# Hi 👋 I'm Shweta Rani 
- <br><br>🎓 3rd-year B.Tech CSE student  <br>💻 Frontend Developer | MERN Stack Learner  <br>🌱 Currently exploring Full-Stack Development & Generative AI  <br>🚀 Passionate about building real-world projects and learning by doing  <br><br>🔧 Tech Stack:<br>HTML | CSS | JavaScript | React | Node.js | Express | MongoDB | Git | GitHub  <br><br>📌 Goals:<br>- Become a skilled Full-Stack Developer  <br>- Build impactful projects  <br>- Grow as a tech creator & problem solver  <br><br>📫 Let’s connect and collaborate!<br>
+<div align="center">
 
+<!-- Profile visit counter -->
+![Profile Views](https://komarev.com/ghpvc/?username=Shweta-rani05&color=blueviolet&style=flat-square&label=Profile+Views)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/shweta-rani-11741028a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ranishweta96936) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Shweta__rani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ranishweta96936@gmail.com) 
+# Shweta Rani
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=flat-square&logo=ejs&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat-square&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shweta-rani05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shweta-rani05&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-rani05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Frontend Developer · MERN Stack Learner · Generative AI Explorer**
+
+3rd-year B.Tech CSE student passionate about building real-world projects and learning by doing.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Shweta-rani05/portfolio-shweta)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shweta-rani05)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shweta-rani05)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shweta-rani05&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## About me
 
+I'm a Computer Science undergraduate with a strong interest in full-stack development and modern AI tooling. I enjoy turning ideas into working products — from responsive UIs to backend APIs — and I'm currently deepening my skills in Generative AI and LLM-powered applications.
+
+- 🎓 B.Tech CSE, 3rd Year
+- 💻 Building with React, Node.js, and MongoDB
+- 🤖 Exploring LangChain and Generative AI
+- 🚀 Goal: become a skilled Full-Stack Developer who builds impactful, scalable products
+- 📫 Open to collaborations, internships, and open-source contributions
+
+---
+
+## Tech stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+
+**Currently learning**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+---
+
+## Featured projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**SVN Jewellery**](https://github.com/Shweta-rani05/SVN-Jewellery) | Full-stack e-commerce platform with dynamic product variants, persistent cart & wishlist, Cloudinary integration, and MongoDB Atlas | React · Node.js · MongoDB · TypeScript |
+| [**Wonderlust**](https://github.com/Shweta-rani05/wonderlust-mern) | Hotel booking platform with secure auth, Cloudinary image uploads, and property listing management | MERN · EJS · Cloudinary |
+| [**Portfolio**](https://github.com/Shweta-rani05/portfolio-shweta) | Developer portfolio with smooth animations and a clean, responsive design | Next.js · TypeScript · Tailwind · Framer Motion |
+| [**QuickChat**](https://github.com/Shweta-rani05/QuickChat) | React chat app demonstrating component-based architecture and modern frontend practices | React · JavaScript |
+| [**Redux Todo App**](https://github.com/Shweta-rani05/Redux-todo-list-app) | Todo app built to learn Redux Toolkit — store, slices, actions, and reducers | React · Redux Toolkit · Vite |
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+![Shweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shweta-rani05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-rani05&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Shweta-rani05&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## Goals for 2025
+
+- [ ] Complete a full-stack production-ready MERN application
+- [ ] Build and ship an LLM-powered app using LangChain
+- [ ] Contribute to open-source projects
+- [ ] Land a full-stack or frontend internship
+- [ ] Grow as a tech creator and problem solver
+
+---
+
+<div align="center">
+
+*Let's connect and build something great together.*
+
+</div>
