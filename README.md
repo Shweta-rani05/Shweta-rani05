@@ -77,9 +77,9 @@ I'm a Computer Science undergraduate with a strong interest in full-stack develo
 
 <div align="center">
 
-![Shweta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shweta-rani05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Shweta-rani05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shweta-rani05&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Shweta-rani05&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Shweta-rani05&theme=tokyonight&hide_border=true)
 
