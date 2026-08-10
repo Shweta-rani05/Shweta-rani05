@@ -83,15 +83,6 @@ I'm a Computer Science undergraduate with a strong interest in full-stack develo
 
 ---
 
-## Goals for 2025
-
-- [ ] Contribute to an open-source project (first merged PR)
-- [ ] Ship a non-AI systems project (queues, caching, or real-time architecture)
-- [ ] Land a full-time SDE role
-- [ ] Keep testing everything I claim works — no unverified metrics
-
-
----
 
 <div align="center">
 
