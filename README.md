@@ -65,13 +65,12 @@ I'm a Computer Science undergraduate with a strong interest in full-stack develo
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**SVN Jewellery**](https://github.com/Shweta-rani05/SVN-Jewellery) | Full-stack e-commerce platform with dynamic product variants, persistent cart & wishlist, Cloudinary integration, and MongoDB Atlas | React · Node.js · MongoDB · TypeScript |
-| [**Wonderlust**](https://github.com/Shweta-rani05/wonderlust-mern) | Hotel booking platform with secure auth, Cloudinary image uploads, and property listing management | MERN · EJS · Cloudinary |
-| [**Portfolio**](https://github.com/Shweta-rani05/portfolio-shweta) | Developer portfolio with smooth animations and a clean, responsive design | Next.js · TypeScript · Tailwind · Framer Motion |
+| [**Where Is My Money Going?**](https://github.com/Shweta-rani05/Where-is-my-Money-Going) · [Live](https://where-is-my-money-going.vercel.app/) | AI-powered personal finance platform — JWT auth, budgeting, savings goals, and analytics dashboards. Includes an OCR + Gemini extraction pipeline for bank statements, tested at 100% transaction capture and ~98% field-level accuracy across multiple statement formats, including scanned images requiring true OCR. | MERN · TypeScript · Google Gemini |
+| [**Wonderlust**](https://github.com/Shweta-rani05/wonderlust-mern) · [Live](https://wonderlust-mern-kj89.onrender.com/) | Hotel booking platform with secure auth, Cloudinary image uploads, Gemini-generated trip itineraries, and property listing management | MERN · EJS · Cloudinary |
+| [**SVN Jewellery**](https://github.com/Shweta-rani05/SVN-Jewellery) · [Live](https://svn-jewellery.vercel.app/) | Full-stack e-commerce platform with dynamic product variants, persistent cart & wishlist, Cloudinary integration, and MongoDB Atlas | React · Node.js · MongoDB · TypeScript |
+| [**Portfolio**](https://github.com/Shweta-rani05/portfolio-shweta) · [Live](https://portfolio-shweta-lyart.vercel.app/) | Developer portfolio with smooth animations and a clean, responsive design | Next.js · TypeScript · Tailwind · Framer Motion |
 | [**QuickChat**](https://github.com/Shweta-rani05/QuickChat) | React chat app demonstrating component-based architecture and modern frontend practices | React · JavaScript |
 | [**Redux Todo App**](https://github.com/Shweta-rani05/Redux-todo-list-app) | Todo app built to learn Redux Toolkit — store, slices, actions, and reducers | React · Redux Toolkit · Vite |
-
----
 
 ## GitHub stats
 
