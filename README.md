@@ -7,7 +7,7 @@
 
 **Frontend Developer · MERN Stack Learner · Generative AI Explorer**
 
-3rd-year B.Tech CSE student passionate about building real-world projects and learning by doing.
+Final year B.Tech CSE student passionate about building real-world projects and learning by doing.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Shweta-rani05/portfolio-shweta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shweta-rani05)
@@ -21,7 +21,7 @@
 
 I'm a Computer Science undergraduate with a strong interest in full-stack development and modern AI tooling. I enjoy turning ideas into working products — from responsive UIs to backend APIs — and I'm currently deepening my skills in Generative AI and LLM-powered applications.
 
-- 🎓 B.Tech CSE, 3rd Year
+- 🎓 B.Tech CSE, Final Year
 - 💻 Building with React, Node.js, and MongoDB
 - 🤖 Exploring LangChain and Generative AI
 - 🚀 Goal: become a skilled Full-Stack Developer who builds impactful, scalable products
